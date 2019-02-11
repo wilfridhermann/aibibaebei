@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ievaedoh.lese-rechtschreib-training.de/sitemap.xml
